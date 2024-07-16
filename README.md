@@ -4,9 +4,9 @@ Materials for replicating the results in "Bayesian Causal Forests for Longitudin
 
 The data used in this study is available for download at https://nces.ed.gov/datalab/onlinecodebook.
 
-![alt text](https://github.com/Nathan-McJames/Longitudinal_BCF_Paper/blob/main/Pictures/dgp1_plot.svg?raw=true)
+![alt text](https://github.com/Nathan-McJames/Longitudinal_BCF_Paper/blob/main/Pictures/dgp1_figure.svg?raw=true)
 
-![alt text](https://github.com/Nathan-McJames/Longitudinal_BCF_Paper/blob/main/Pictures/dgp2_plot.svg?raw=true)
+![alt text](https://github.com/Nathan-McJames/Longitudinal_BCF_Paper/blob/main/Pictures/dgp2_figure.svg?raw=true)
 
 ![alt text](https://github.com/Nathan-McJames/Longitudinal_BCF_Paper/blob/main/Pictures/growth_plot.svg?raw=true)
 
