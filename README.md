@@ -12,7 +12,7 @@ The data used in this study is available for download at https://nces.ed.gov/dat
 
 ![alt text](https://github.com/Nathan-McJames/Longitudinal_BCF_Paper/blob/main/Pictures/treat_plot.svg?raw=true)
 
-### Code Scripts and Description
+### Code Scripts and Description:
 
 BCF_SIM_Github.R - Code for running the DGP1 simulation study.
 
