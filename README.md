@@ -2,6 +2,8 @@
 
 Materials for replicating the results in "Bayesian Causal Forests for Longitudinal Data: Assessing the Impact of Part-Time Work on Growth in High School Mathematics Achievement".
 
+The preprint of this paper can be found at: https://arxiv.org/pdf/2407.11927.
+
 The data used in this study is available for download at https://nces.ed.gov/datalab/onlinecodebook.
 
 Further information on the dataset (and others organised by the NCES) can be found at https://nces.ed.gov/surveys/hsls09/. 
